@@ -1,5 +1,6 @@
 import React from 'react'
 import Logo from '../assets/img/logo-negativo-web.png'
+import cv from '../../src/assets/img/CV.pdf'
 
 function NavBar() {
     return (
@@ -19,7 +20,7 @@ function NavBar() {
                             <a class="nav-link active text-white" href="/">Trabajos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active text-white" href="/">CV</a>
+                            <a class="nav-link active text-white" download={'CV'} href={cv}>CV</a>
                         </li>
                     </ul>
                 </div>
