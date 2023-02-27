@@ -1,5 +1,11 @@
 import React from 'react'
 import '../home/Home.css'
+import Rolo from '../../assets/img/dis_rolo.png' 
+import SabujCha from '../../assets/img/sabujCha.png'
+import zShop from '../../assets/img/zShop.png'
+import ToDoList from '../../assets/img/to_do_list.png'
+import videoClub from '../../assets/img/videoClub.png'
+
 
 function Home() {
     return (
@@ -23,66 +29,60 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src="#" class="card-img-top" alt="corpohypatia" />
+                                <h5 class="card-title">CorpoHypatia</h5>
+                                <a href="/" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="/" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src={videoClub} class="card-img-top" alt="videoClub" />
+                                <h5 class="card-title py-3">VideoClub</h5>
+                                <a href="https://github.com/AngelaDiaz20/videoclub-movies-front" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://videoclub-movies.vercel.app/add" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src={Rolo} class="card-img-top" alt="distribuidora el rolo" />
+                                <h5 class="card-title py-3">Distribuidora el rolo</h5>
+                                <a href="https://github.com/ivanmunoz99/distribuidora-el-rolo.git" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://distribuidora-el-rolo.vercel.app/" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src={ToDoList} class="card-img-top" alt="To do list" />
+                                <h5 class="card-title py-3">To do list</h5>
+                                <a href="https://github.com/AngelaDiaz20/To-Do-List-App/tree/ivan" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://flores-del-tambo-to-do-list-app.vercel.app/" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src={SabujCha} class="card-img-top" alt="sabujCha" />
+                                <h5 class="card-title py-3">SabujCha</h5>
+                                <a href="https://github.com/ivanmunoz99/sabuj.git" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://sabuj.vercel.app/" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="img" />
-                                <h5 class="card-title">Special title treatment</h5>
-                                <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
-                                <a href="/" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" class="btn btn-primary">Despliegue</a>
+                                <img src={zShop} class="card-img-top" alt="zShop" />
+                                <h5 class="card-title py-3">zShop</h5>
+                                <a href="https://github.com/ivanmunoz99/zShop.git" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://zshop-git-ivn-ivanmunoz99.vercel.app/single.html" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>

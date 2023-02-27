@@ -4,11 +4,11 @@ import '../components/Footer.css'
 function Footer() {
     return (
         <div className='container-fluid bg-light'>
-            <div className="container">
+            <div className="container ">
                 <p className='m-0 pt-4 text-center'>CONTACTAME</p>
                 <hr className='m-0' />
                 <div className="contact">
-                    <ul>
+                    <ul className='justify-content-center p-0 m-0 py-3'>
                         <a href="https://github.com/ivanmunoz99" target="blank">
                             <li>
                                 <span className='icon'><i className='bi bi-github'></i></span>
