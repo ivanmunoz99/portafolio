@@ -23,6 +23,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
@@ -33,6 +34,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
@@ -43,6 +45,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
@@ -53,6 +56,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
@@ -63,6 +67,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
@@ -73,6 +78,7 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
+                                <img src="#" class="card-img-top" alt="img" />
                                 <h5 class="card-title">Special title treatment</h5>
                                 <p class="card-text text-start">With supporting text below as a natural lead-in to additional content.</p>
                                 <a href="/" class="btn btn-primary me-4">Repositorio</a>
