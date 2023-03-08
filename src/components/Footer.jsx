@@ -21,7 +21,7 @@ function Footer() {
                                 <span className='titulo'>WhatsApp</span>
                             </li>
                         </a>
-                        <a href="www.linkedin.com/in/ivan-muñoz-andrade" target="blank">
+                        <a href="https://www.linkedin.com/in/ivan-mu%C3%B1oz-andrade/" target="blank">
                             <li>
                                 <span className='icon'><i className='bi bi-linkedin'></i></span>
                                 <span className='titulo'>Linkedin</span>
