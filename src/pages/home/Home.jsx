@@ -6,6 +6,7 @@ import zShop from '../../assets/img/zShop.png'
 import ToDoList from '../../assets/img/to_do_list.png'
 import videoClub from '../../assets/img/videoClub.png'
 import cv from '../../assets/img/CV.pdf'
+import corpo from '../../assets/img/corpo.png'
 
 
 function Home() {
@@ -30,10 +31,10 @@ function Home() {
                     <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4 text-center">
                         <div class="card mb-5">
                             <div class="card-body">
-                                <img src="#" class="card-img-top" alt="corpohypatia" />
-                                <h5 class="card-title">CorpoHypatia</h5>
-                                <a href="/" target="blank" class="btn btn-primary me-4">Repositorio</a>
-                                <a href="/" target="blank" class="btn btn-primary">Despliegue</a>
+                                <img src={corpo} class="card-img-top" alt="corpohypatia" />
+                                <h5 class="card-title py-3">CorpoHypatia</h5>
+                                <a href="https://github.com/programateacademy/5-Corpohypatiapatia-Corpohypatia-Back-end" target="blank" class="btn btn-primary me-4">Repositorio</a>
+                                <a href="https://5-corpohypatiapatia-corpohypatia-front-end.vercel.app/" target="blank" class="btn btn-primary">Despliegue</a>
                             </div>
                         </div>
                     </div>
