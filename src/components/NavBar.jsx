@@ -13,12 +13,12 @@ function NavBar() {
                 <div class="collapse navbar-collapse text-center" id="navbarNavDropdown">
                 <img src={Logo} class="rounded mx-auto d-block" alt="Logo" width={100}/>
                     <ul class="navbar-nav">
-                        {/* <li class="nav-item">
-                            <a class="nav-link active text-white" aria-current="page" href="/">Inicio</a>
+                        <li class="nav-item">
+                            <a class="nav-link active text-white" aria-current="page" href="#inicio">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active text-white" href="/">Trabajos</a>
-                        </li> */}
+                            <a class="nav-link active text-white" href="#trabajos">Trabajos</a>
+                        </li>
                         <li class="nav-item">
                             <a class="nav-link active text-white" download={'CV'} href={cv}>CV</a>
                         </li>
