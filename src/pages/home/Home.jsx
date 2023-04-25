@@ -5,7 +5,7 @@ import SabujCha from '../../assets/img/sabujCha.png'
 import zShop from '../../assets/img/zShop.png'
 import ToDoList from '../../assets/img/to_do_list.png'
 import videoClub from '../../assets/img/videoClub.png'
-import cv from '../../assets/img/CV.pdf'
+import cv from '../../assets/img/HVIvanMuñoz2023-2.pdf'
 import corpo from '../../assets/img/corpo.png'
 
 
