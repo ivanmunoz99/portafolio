@@ -1,6 +1,6 @@
 import React from 'react'
 import Logo from '../assets/img/logo-negativo-web.png'
-import cv from '../../src/assets/img/HVIvanMuñoz2023-2.pdf'
+import cv from '../../src/assets/img/HVIvanMuñoz2024-2.pdf'
 
 function NavBar() {
     return (
