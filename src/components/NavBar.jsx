@@ -11,7 +11,7 @@ function NavBar() {
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse text-center" id="navbarNavDropdown">
-                <img src={Logo} class="rounded mx-auto d-block" alt="Logo" width={200}/>
+                <img src={Logo} class="rounded mx-auto d-block" alt="Logo" width={150}/>
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <a class="nav-link active text-white" aria-current="page" href="#inicio">Inicio</a>
