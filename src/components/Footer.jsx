@@ -15,7 +15,7 @@ function Footer() {
                                 <span className='titulo'>Github</span>
                             </li>
                         </a>
-                        <a href="https://api.whatsapp.com/send/?phone=573043506199&text=" target="blank">
+                        <a href="https://api.whatsapp.com/send/?phone=573017021976&text=" target="blank">
                             <li>
                                 <span className='icon'><i className='bi bi-whatsapp'></i></span>
                                 <span className='titulo'>WhatsApp</span>
